@@ -1,8 +1,14 @@
-# sportintrade
+<div align="center">
+  <img src="sportintrade.png" alt="SportInTrade Logo" width="200"/>
+  
+  # SportInTrade
 
-# SportInTrade
+  > A decentralized fantasy sports trading platform built on Stellar, where player performance meets real-time market dynamics.
+</div>
 
-> A decentralized fantasy sports trading platform built on Stellar, where player performance meets real-time market dynamics.
+
+
+
 
 [![Stellar](https://img.shields.io/badge/Built%20on-Stellar-black?logo=stellar)](https://stellar.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
