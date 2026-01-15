@@ -54,7 +54,7 @@ rust >= 1.70.0 (for Soroban development)
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sportintrade.git
+git clone https://github.com/mimijuwonlo/sportintrade.git
 cd sportintrade
 
 # Install dependencies
