@@ -54,7 +54,7 @@ rust >= 1.70.0 (for Soroban development)
 
 ```bash
 # Clone the repository
-git clone https://github.com/mimijuwonlo/sportintrade.git
+git clone https://github.com/mimijuwon/sportintrade.git
 cd sportintrade
 
 # Install dependencies
@@ -132,7 +132,7 @@ We welcome contributions from the community! SportInTrade is participating in th
 
 ### How to Contribute
 
-1. Check our [Issues](https://mimijuwonlo/sportintrade/issues) for tasks tagged with Wave Points
+1. Check our [Issues](https://mimijuwon/sportintrade/issues) for tasks tagged with Wave Points
 2. Fork the repository
 3. Create a feature branch (`git checkout -b feature/amazing-feature`)
 4. Commit your changes (`git commit -m 'Add amazing feature'`)
